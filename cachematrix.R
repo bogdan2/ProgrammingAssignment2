@@ -55,3 +55,8 @@ test <- function (x = matrix()) {
 # u$get()
 # test(u$get())
 
+#n<-1000
+#u <- makeCacheMatrix(matrix(rnorm(n*n), ncol=n))
+#v <- cacheSolve(u)
+#test(u$get())
+
